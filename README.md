@@ -78,6 +78,7 @@ Thanks!
 
 - [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro)
 - [A Byte of Python](https://python.swaroopch.com)
+- [An Introduction to Python for Linguists](https://v4py.github.io/intro.html)
 - [Code With Repl.it: Python Projects for Beginners](https://www.codewithrepl.it/python-projects-for-beginners.html)
 - [Exploring Python Basics](https://www.manning.com/books/exploring-python-basics)
 - [Full Speed Python](https://github.com/joaoventura/full-speed-python)
